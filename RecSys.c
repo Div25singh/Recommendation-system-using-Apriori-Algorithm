@@ -2,6 +2,8 @@
 #include<stdlib.h>
 #include<math.h>
 
+//Sanidhya working on it
+
 int main(){
 	
 	int i; 
